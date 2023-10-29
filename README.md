@@ -1,5 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I am currently learning to become a Software Developer!
 
 <!--
-I am currently learning to become a Software Developer!
+
 -->
